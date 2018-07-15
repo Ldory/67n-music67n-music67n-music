@@ -40,7 +40,7 @@ client.on('message', message => {
     const embed = new Discord.RichEmbed()
         .setColor("2fff00")
         .setDescription("| :white_check_mark:  | :heart:  تم ارسال الرابط على الخاص  ")
-        .setFooter("Spring-Team")
+        .setFooter("67N-KINGDOM")
       message.channel.sendEmbed(embed).then(message => {message.delete(10000)})
               const Embed11 = new Discord.RichEmbed()
         .setColor("2fff00")
